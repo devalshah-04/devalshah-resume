@@ -14,7 +14,9 @@ Passionate about clean architecture, ethical AI integration, and collaborative d
 
 📂 Contents
 
-https://github.com/devalshah-04/devalshah-resume/blob/main/Deval-Shah-Resume-10.0.pdf – My updated resume for GSSoC 2025
+My updated resume for GSSoC 2025 --> https://github.com/devalshah-04/devalshah-resume/blob/main/Deval-Shah-Resume-10.0.pdf
+
+Resume (Google Drive link) -->  https://drive.google.com/file/d/16cHRthFONa6yceym2brRwRUWbqyo_Lq8/view?usp=drive_link
 
 🌐 Connect with Me
 
